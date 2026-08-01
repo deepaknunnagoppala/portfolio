@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380">
+  <rect width="600" height="380" fill="#12161D"/>
+  <rect x="0" y="0" width="600" height="44" fill="#161B24"/>
+  <circle cx="24" cy="22" r="5" fill="#E8A33D"/>
+  <circle cx="42" cy="22" r="5" fill="#3DD9B4"/>
+  <circle cx="60" cy="22" r="5" fill="#4C5768"/>
+  <text x="300" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#8B93A1">deepaknunnagoppala.github.io</text>
+  <rect x="24" y="70" width="552" height="60" rx="8" fill="#0A0D12" stroke="#242B36"/>
+  <text x="44" y="106" font-family="sans-serif" font-size="20" fill="#EDEFF2">Deepak Nunnagoppala</text>
+  <rect x="24" y="146" width="176" height="90" rx="8" fill="#0A0D12" stroke="#242B36"/>
+  <rect x="212" y="146" width="176" height="90" rx="8" fill="#0A0D12" stroke="#242B36"/>
+  <rect x="400" y="146" width="176" height="90" rx="8" fill="#0A0D12" stroke="#242B36"/>
+  <text x="44" y="176" font-family="monospace" font-size="11" fill="#3DD9B4">01 &#8226; SKILLS</text>
+  <text x="232" y="176" font-family="monospace" font-size="11" fill="#3DD9B4">02 &#8226; PROJECTS</text>
+  <text x="420" y="176" font-family="monospace" font-size="11" fill="#3DD9B4">03 &#8226; CONTACT</text>
+</svg>

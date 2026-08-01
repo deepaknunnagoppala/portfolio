@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380">
+  <rect width="600" height="380" fill="#12161D"/>
+  <rect x="0" y="0" width="600" height="44" fill="#161B24"/>
+  <circle cx="24" cy="22" r="5" fill="#E8A33D"/>
+  <circle cx="42" cy="22" r="5" fill="#3DD9B4"/>
+  <circle cx="60" cy="22" r="5" fill="#4C5768"/>
+  <text x="300" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#8B93A1">ledgermatch / dashboard</text>
+  <rect x="24" y="68" width="552" height="40" rx="6" fill="#0A0D12" stroke="#242B36"/>
+  <text x="40" y="93" font-family="monospace" font-size="13" fill="#3DD9B4">TXN-00842 &#8226; RECONCILED &#8226; $12,480.00</text>
+  <rect x="24" y="118" width="552" height="40" rx="6" fill="#0A0D12" stroke="#242B36"/>
+  <text x="40" y="143" font-family="monospace" font-size="13" fill="#E8A33D">TXN-00843 &#8226; DISCREPANCY &#8226; $340.10</text>
+  <rect x="24" y="168" width="552" height="40" rx="6" fill="#0A0D12" stroke="#242B36"/>
+  <text x="40" y="193" font-family="monospace" font-size="13" fill="#3DD9B4">TXN-00844 &#8226; RECONCILED &#8226; $2,015.60</text>
+  <rect x="24" y="230" width="170" height="120" rx="8" fill="#0A0D12" stroke="#242B36"/>
+  <text x="40" y="256" font-family="monospace" font-size="11" fill="#8B93A1">MATCH RATE</text>
+  <text x="40" y="300" font-family="sans-serif" font-size="34" fill="#EDEFF2">96.4%</text>
+  <rect x="210" y="230" width="366" height="120" rx="8" fill="#0A0D12" stroke="#242B36"/>
+  <polyline points="220,320 260,300 300,310 340,270 380,290 420,250 460,270 500,240 540,260" fill="none" stroke="#3DD9B4" stroke-width="2.5"/>
+  <text x="220" y="252" font-family="monospace" font-size="11" fill="#8B93A1">RECONCILIATION TREND</text>
+</svg>
